@@ -14,3 +14,5 @@ GitHub Pages update:
 Your ride data stays in the browser where it was recorded. Do not clear website data.
 
 Colorful Alpine icon update: upload all six files. If the old home-screen icon persists, remove and re-add the shortcut.
+
+Version 4: Added Car as a third transport choice next to Train and Bus. Previous journeys remain stored under railway-passport-v1.
