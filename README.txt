@@ -52,3 +52,5 @@ Update: Five bottom tabs (Home, History, Statistics, Visual Summary, Settings). 
 Update: Distinct dark-green navigation buttons and refined SVG icons for Home, History, Statistics, Visual Summary, and Settings.
 
 Navigation refinement: restored neutral white bottom navigation and subtle gray active tab; improved SVG icons retained.
+
+Update: compact neutral bottom navigation with smaller buttons and icons; labels and other features unchanged.
