@@ -65,3 +65,7 @@ Destination shortcut buttons now dismiss the on-screen keyboard immediately.
 Update: Edit existing journeys from History and Last 3 Journeys on Home. Edit transport, destination, date, time and optional price.
 
 Fix: Edit dialog is initialized before JavaScript; Save Journey works again. Delete buttons appear beside Edit in Home and History. Failed saves/deletes roll back in memory.
+
+Version 1.2: Edit Journey dialog no longer automatically opens Transport selector; mechanical counter digits vertically centered.
+
+Version 1.3: Settings Emergency Button with four categories and 10 original rotating messages each (40 total).
