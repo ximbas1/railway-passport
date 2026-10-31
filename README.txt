@@ -12,3 +12,5 @@ GitHub Pages update:
 4. Reload the site. If the previous version remains, close/reopen the app or refresh again; service worker cache is updated.
 
 Your ride data stays in the browser where it was recorded. Do not clear website data.
+
+Colorful Alpine icon update: upload all six files. If the old home-screen icon persists, remove and re-add the shortcut.
