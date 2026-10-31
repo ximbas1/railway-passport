@@ -36,3 +36,5 @@ Version 13: Journey total card now features a compact illustrated city street ma
 Version 14: Counter map redesigned with person, dynamic mechanical counter, branching routes to four color-coded transport choices. New approved map/counter/transport app icons. Existing local journey storage and statistics preserved.
 
 Version 15: Clean counter: large dynamic mechanical tally on left, no Journeys recorded caption; minimal map with A-B dotted route and all four transport icons on right.
+
+Version 16: Separate persistent eye controls for Journey History and Journeys by Month; auto-updating canvas Visual Journey Summary below Smart Journey Summary with Save PNG. Statistics use selected month/year or All Time. No external services.
