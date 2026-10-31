@@ -81,3 +81,5 @@ Version 1.8: Destination field confirms successful saves with one slow green bor
 Version 1.9: stronger single green border flash and bright green check, synchronized to appear and disappear together.
 
 Version 2.0: A short offline synthesized two-part choo-choo whistle plays after each successfully saved journey, alongside the green confirmation. Sound depends on browser/device audio settings.
+
+Version 2.1: Classic Punch Clock sound on successful Save Journey; icon-only bell mute toggle beside Destination. Mute preference persists; audio embedded for offline use.
