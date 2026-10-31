@@ -1,3 +1,6 @@
+App version: v1.0 (initial numbered release).
+Future updates should increment the displayed version in index.html and the service-worker cache revision.
+
 Railway Passport — Updated version (October 2026)
 
 Changes:
