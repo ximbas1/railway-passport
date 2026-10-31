@@ -69,3 +69,7 @@ Fix: Edit dialog is initialized before JavaScript; Save Journey works again. Del
 Version 1.2: Edit Journey dialog no longer automatically opens Transport selector; mechanical counter digits vertically centered.
 
 Version 1.3: Settings Emergency Button with four categories and 10 original rotating messages each (40 total).
+
+Version 1.4: centered mechanical counter numerals, 150 emergency messages across five categories, larger square red emergency button.
+
+Version 1.5: Added sixth Emergency Button category, Platform Fortune Teller, with 30 original messages (180 total).
