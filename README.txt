@@ -34,3 +34,5 @@ Version 12: statistics eye hide/show with persistent visibility, month and year 
 Version 13: Journey total card now features a compact illustrated city street map, A-to-B route and manual mechanical counter. The miniature counter updates with total journeys. No GPS or network maps used.
 
 Version 14: Counter map redesigned with person, dynamic mechanical counter, branching routes to four color-coded transport choices. New approved map/counter/transport app icons. Existing local journey storage and statistics preserved.
+
+Version 15: Clean counter: large dynamic mechanical tally on left, no Journeys recorded caption; minimal map with A-B dotted route and all four transport icons on right.
