@@ -42,3 +42,5 @@ Version 16: Separate persistent eye controls for Journey History and Journeys by
 Update v18: Removed Visual Journey Summary explanatory text. Save Photo uses native file sharing (iOS Share Sheet > Save Image) where available; falls back to PNG download. Browser cannot silently write to Photos.
 
 Version 18: Design B map-and-transport visual summary, generated from saved journeys and selected period. Save Photo and other app features retained.
+
+Version 19: Rebuilt Visual Journey Summary image as precise aligned Design B, with map route, transport icons, 3 KPI tiles, doughnut legend and monthly bars. Existing data, Save Photo and eye toggles retained.
