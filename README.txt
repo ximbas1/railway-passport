@@ -48,3 +48,7 @@ Version 19: Rebuilt Visual Journey Summary image as precise aligned Design B, wi
 Backup & Restore: Export JSON to Files/iCloud Drive, import with merge or replace, and monthly in-app reminder. The last-backup date is updated only after user confirmation.
 
 Update: Five bottom tabs (Home, History, Statistics, Visual Summary, Settings). Backup and restore now live in Settings. Existing journey data is preserved.
+
+Update: Distinct dark-green navigation buttons and refined SVG icons for Home, History, Statistics, Visual Summary, and Settings.
+
+Navigation refinement: restored neutral white bottom navigation and subtle gray active tab; improved SVG icons retained.
