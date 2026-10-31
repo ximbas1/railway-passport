@@ -38,3 +38,7 @@ Version 14: Counter map redesigned with person, dynamic mechanical counter, bran
 Version 15: Clean counter: large dynamic mechanical tally on left, no Journeys recorded caption; minimal map with A-B dotted route and all four transport icons on right.
 
 Version 16: Separate persistent eye controls for Journey History and Journeys by Month; auto-updating canvas Visual Journey Summary below Smart Journey Summary with Save PNG. Statistics use selected month/year or All Time. No external services.
+
+Update v18: Removed Visual Journey Summary explanatory text. Save Photo uses native file sharing (iOS Share Sheet > Save Image) where available; falls back to PNG download. Browser cannot silently write to Photos.
+
+Version 18: Design B map-and-transport visual summary, generated from saved journeys and selected period. Save Photo and other app features retained.
