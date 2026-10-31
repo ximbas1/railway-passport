@@ -54,3 +54,5 @@ Update: Distinct dark-green navigation buttons and refined SVG icons for Home, H
 Navigation refinement: restored neutral white bottom navigation and subtle gray active tab; improved SVG icons retained.
 
 Update: compact neutral bottom navigation with smaller buttons and icons; labels and other features unchanged.
+
+Destination shortcut buttons now dismiss the on-screen keyboard immediately.
