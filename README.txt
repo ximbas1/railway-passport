@@ -26,3 +26,5 @@ Version 7: App renamed Public Transport Counter. Header subtitle: My journeys - 
 Version 8: Four transport buttons (Train, Bus, Car, Vespa) in one row. Editable train ticket prices for Kundl, Woergl, Innsbruck and monthly train ticket totals. Prices stored separately; existing journey storage preserved.
 
 Update: compact scrollable journey history (260px max height), monthly breakdown by destination and transport with ride counts and train ticket costs. Car/Bus/Vespa show dash because no prices are configured for them. Local journey data unchanged.
+
+Version 11: Four compact always-labelled doughnut statistics (month/year/all), ticket spending in EUR; prompts for train fare when a destination has no saved price. Journey history remains in localStorage railway-passport-v1.
