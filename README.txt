@@ -30,3 +30,7 @@ Update: compact scrollable journey history (260px max height), monthly breakdown
 Version 11: Four compact always-labelled doughnut statistics (month/year/all), ticket spending in EUR; prompts for train fare when a destination has no saved price. Journey history remains in localStorage railway-passport-v1.
 
 Version 12: statistics eye hide/show with persistent visibility, month and year selectors and All Time checkbox, four compact labeled doughnut charts, and automatic Smart Journey Summary. Ticket spending covers train rides only. Local journey history preserved.
+
+Version 13: Journey total card now features a compact illustrated city street map, A-to-B route and manual mechanical counter. The miniature counter updates with total journeys. No GPS or network maps used.
+
+Version 14: Counter map redesigned with person, dynamic mechanical counter, branching routes to four color-coded transport choices. New approved map/counter/transport app icons. Existing local journey storage and statistics preserved.
