@@ -44,3 +44,5 @@ Update v18: Removed Visual Journey Summary explanatory text. Save Photo uses nat
 Version 18: Design B map-and-transport visual summary, generated from saved journeys and selected period. Save Photo and other app features retained.
 
 Version 19: Rebuilt Visual Journey Summary image as precise aligned Design B, with map route, transport icons, 3 KPI tiles, doughnut legend and monthly bars. Existing data, Save Photo and eye toggles retained.
+
+Backup & Restore: Export JSON to Files/iCloud Drive, import with merge or replace, and monthly in-app reminder. The last-backup date is updated only after user confirmation.
