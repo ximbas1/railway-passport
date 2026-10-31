@@ -28,3 +28,5 @@ Version 8: Four transport buttons (Train, Bus, Car, Vespa) in one row. Editable 
 Update: compact scrollable journey history (260px max height), monthly breakdown by destination and transport with ride counts and train ticket costs. Car/Bus/Vespa show dash because no prices are configured for them. Local journey data unchanged.
 
 Version 11: Four compact always-labelled doughnut statistics (month/year/all), ticket spending in EUR; prompts for train fare when a destination has no saved price. Journey history remains in localStorage railway-passport-v1.
+
+Version 12: statistics eye hide/show with persistent visibility, month and year selectors and All Time checkbox, four compact labeled doughnut charts, and automatic Smart Journey Summary. Ticket spending covers train rides only. Local journey history preserved.
