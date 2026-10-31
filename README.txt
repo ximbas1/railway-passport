@@ -56,3 +56,5 @@ Navigation refinement: restored neutral white bottom navigation and subtle gray 
 Update: compact neutral bottom navigation with smaller buttons and icons; labels and other features unchanged.
 
 Destination shortcut buttons now dismiss the on-screen keyboard immediately.
+
+Update: Edit existing journeys from History and Last 3 Journeys on Home. Edit transport, destination, date, time and optional price.
