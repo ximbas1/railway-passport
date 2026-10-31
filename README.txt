@@ -1,7 +1,14 @@
-RAILWAY PASSPORT WEB APP
+Railway Passport — Updated version (October 2026)
 
-Test on Mac: unzip the package and open index.html in Firefox.
-Features: Train/Bus selection, destination, automatic save date/time, journey total, newest-first history, delete.
-Data stays in this browser's local storage on this device. No GPS, account, or server. Clearing browser data may erase journeys; there is no automatic backup.
+Changes:
+- Quick destination buttons: Kundl, Wörgl, Innsbruck (fill field without saving).
+- Monthly ride bar chart after journey history, showing counts and destinations.
+- Preserves existing localStorage key railway-passport-v1 so existing rides remain.
 
-iPhone install: publish these files to an HTTPS website, open its address in Safari on iPhone, tap Share > Add to Home Screen > Add. Offline app support requires HTTPS (or localhost). Firefox on Mac is suitable for testing; use Safari for iPhone Home Screen installation.
+GitHub Pages update:
+1. Open your railway-passport GitHub repository.
+2. Upload all six files from this ZIP into the repository ROOT, replacing existing files.
+3. Commit the changes.
+4. Reload the site. If the previous version remains, close/reopen the app or refresh again; service worker cache is updated.
+
+Your ride data stays in the browser where it was recorded. Do not clear website data.
