@@ -79,3 +79,5 @@ Version 1.7: Destination input briefly pulses green twice after a journey is suc
 Version 1.8: Destination field confirms successful saves with one slow green border flash and a faint upper-right check mark. No field background flash or scaling.
 
 Version 1.9: stronger single green border flash and bright green check, synchronized to appear and disappear together.
+
+Version 2.0: A short offline synthesized two-part choo-choo whistle plays after each successfully saved journey, alongside the green confirmation. Sound depends on browser/device audio settings.
