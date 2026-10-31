@@ -1,3 +1,9 @@
+Version v2.2 — Lucky Numbers (silent)
+- Replaces Panic Button with Lucky Numbers in Emergency Button categories.
+- Generates 5 unique numbers from 1–50 and 2 unique bonus numbers from 1–12 using crypto.getRandomValues().
+- Generate New Numbers button, colorful number balls, no sound.
+- Preserves v2.1 punch-clock journey save sound and mute toggle, and existing journey data.
+
 Version v1.1: Compact, equal-width Date and Time fields in Edit Journey dialog (iPhone-friendly).
 
 App version: v1.0 (initial numbered release).
