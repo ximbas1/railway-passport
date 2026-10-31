@@ -46,3 +46,5 @@ Version 18: Design B map-and-transport visual summary, generated from saved jour
 Version 19: Rebuilt Visual Journey Summary image as precise aligned Design B, with map route, transport icons, 3 KPI tiles, doughnut legend and monthly bars. Existing data, Save Photo and eye toggles retained.
 
 Backup & Restore: Export JSON to Files/iCloud Drive, import with merge or replace, and monthly in-app reminder. The last-backup date is updated only after user confirmation.
+
+Update: Five bottom tabs (Home, History, Statistics, Visual Summary, Settings). Backup and restore now live in Settings. Existing journey data is preserved.
