@@ -20,3 +20,5 @@ Version 4: Added Car as a third transport choice next to Train and Bus. Previous
 Layout update: Train, Bus, and Car buttons now fit on one row on narrow phone screens.
 
 Version 6: Forced three equal-width transport buttons on one row. Service worker now fetches fresh HTML on navigation. If old layout persists, reload site in browser before reopening Home Screen shortcut.
+
+Version 7: App renamed Public Transport Counter. Header subtitle: My journeys - by Dr. Aguiar, Mario. Existing saved journeys retained.

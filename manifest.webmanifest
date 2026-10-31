@@ -1,6 +1,6 @@
 {
-  "name": "Railway Passport",
-  "short_name": "Railway Passport",
+  "name": "Public Transport Counter",
+  "short_name": "Transport Counter",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f4f7f5",
