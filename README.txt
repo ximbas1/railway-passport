@@ -75,3 +75,7 @@ Version 1.4: centered mechanical counter numerals, 150 emergency messages across
 Version 1.5: Added sixth Emergency Button category, Platform Fortune Teller, with 30 original messages (180 total).
 
 Version 1.7: Destination input briefly pulses green twice after a journey is successfully saved; keyboard remains dismissed.
+
+Version 1.8: Destination field confirms successful saves with one slow green border flash and a faint upper-right check mark. No field background flash or scaling.
+
+Version 1.9: stronger single green border flash and bright green check, synchronized to appear and disappear together.
