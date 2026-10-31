@@ -1,3 +1,5 @@
+Version v1.1: Compact, equal-width Date and Time fields in Edit Journey dialog (iPhone-friendly).
+
 App version: v1.0 (initial numbered release).
 Future updates should increment the displayed version in index.html and the service-worker cache revision.
 
