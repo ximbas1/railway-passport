@@ -18,3 +18,5 @@ Colorful Alpine icon update: upload all six files. If the old home-screen icon p
 Version 4: Added Car as a third transport choice next to Train and Bus. Previous journeys remain stored under railway-passport-v1.
 
 Layout update: Train, Bus, and Car buttons now fit on one row on narrow phone screens.
+
+Version 6: Forced three equal-width transport buttons on one row. Service worker now fetches fresh HTML on navigation. If old layout persists, reload site in browser before reopening Home Screen shortcut.
