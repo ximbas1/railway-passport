@@ -73,3 +73,5 @@ Version 1.3: Settings Emergency Button with four categories and 10 original rota
 Version 1.4: centered mechanical counter numerals, 150 emergency messages across five categories, larger square red emergency button.
 
 Version 1.5: Added sixth Emergency Button category, Platform Fortune Teller, with 30 original messages (180 total).
+
+Version 1.7: Destination input briefly pulses green twice after a journey is successfully saved; keyboard remains dismissed.
