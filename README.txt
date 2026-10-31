@@ -58,3 +58,5 @@ Update: compact neutral bottom navigation with smaller buttons and icons; labels
 Destination shortcut buttons now dismiss the on-screen keyboard immediately.
 
 Update: Edit existing journeys from History and Last 3 Journeys on Home. Edit transport, destination, date, time and optional price.
+
+Fix: Edit dialog is initialized before JavaScript; Save Journey works again. Delete buttons appear beside Edit in Home and History. Failed saves/deletes roll back in memory.
