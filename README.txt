@@ -1,3 +1,12 @@
+Version v2.3 — History CSV export
+- History tab includes Download CSV (.csv) and All journeys / Train only selection.
+- Exports all saved matching journeys, not only those shown in the list.
+- Columns include Date, Time, Transport, Destination, Price (EUR), Journey ID, Timestamp (ISO), plus any extra saved fields.
+- UTF-8 CSV with Excel-compatible BOM and quoted/escaped cells.
+- On supported iPhone browsers, use the Share sheet → Save to Files. Otherwise downloads normally.
+- Export does not modify or delete saved journeys.
+- All v2.2 Lucky Numbers, save sounds, history editing, statistics and backup features retained.
+
 Version v2.2 — Lucky Numbers (silent)
 - Replaces Panic Button with Lucky Numbers in Emergency Button categories.
 - Generates 5 unique numbers from 1–50 and 2 unique bonus numbers from 1–12 using crypto.getRandomValues().
