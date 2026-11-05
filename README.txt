@@ -1,3 +1,6 @@
+Public Transport Counter v2.5 — Option A, three-digit mechanical flip icon
+New icon only; existing features retained from v2.4.
+
 Version v2.3 — History CSV export
 - History tab includes Download CSV (.csv) and All journeys / Train only selection.
 - Exports all saved matching journeys, not only those shown in the list.
@@ -98,3 +101,6 @@ Version 1.9: stronger single green border flash and bright green check, synchron
 Version 2.0: A short offline synthesized two-part choo-choo whistle plays after each successfully saved journey, alongside the green confirmation. Sound depends on browser/device audio settings.
 
 Version 2.1: Classic Punch Clock sound on successful Save Journey; icon-only bell mute toggle beside Destination. Mute preference persists; audio embedded for offline use.
+
+
+VERSION 2.4: New navy mechanical counter + train ticket app icon. Updated 192 and 512 PNG icons, icon cache-busting and service worker cache. All v2.3 features retained.
